@@ -7,6 +7,9 @@ This project focuses on successfully creating a ML classification model on the U
 ## Links
 
 [This Notebook](https://github.com/DMill31/ml_classification_miller/blob/main/ml_midterm_miller.ipynb)
+
+[Peer Review](https://github.com/DMill31/ml_classification_miller/blob/main/peer_review.md)
+
 ---
 ## Steps
 
